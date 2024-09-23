@@ -34,7 +34,7 @@ public class Demo2 {
 			System.out.println(name);
 		}
 		else {
-			System.out.println("Id not sound");
+			System.out.println("Id not found");
 		}
 		
 		con.close();
